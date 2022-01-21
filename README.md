@@ -1,6 +1,6 @@
 ## Demo
-pennTor: https://penntor-mcit.herokuapp.com/ </br >
-Presentation: https://www.youtube.com/watch?v=ixgIjKfXGbk 
+pennTor: https://penntor-mcit.herokuapp.com </br >
+Presentation (for MCIT Hackathon): https://www.youtube.com/watch?v=ixgIjKfXGbk 
 
 ## Team Members:
 Joyce Wang </br >
