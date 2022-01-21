@@ -1,6 +1,5 @@
-## Demo
-pennTor: https://penntor-mcit.herokuapp.com </br >
-Presentation (for MCIT Hackathon): https://www.youtube.com/watch?v=ixgIjKfXGbk 
+## Project Name 
+pennTor
 
 ## Team Members:
 Joyce Wang </br >
@@ -8,8 +7,9 @@ Rita Sabri </br >
 Jeng-Ru Wu </br >
 Rachel Lim
 
-## Project Name 
-pennTor
+## Demo
+pennTor: https://penntor-mcit.herokuapp.com </br >
+Presentation (for MCIT Hackathon): https://www.youtube.com/watch?v=ixgIjKfXGbk 
 
 ## Description
 The process of pairing up the mentors and mentees was troublesome and required the use of google forms, emails, with a lot of human intervention. 
