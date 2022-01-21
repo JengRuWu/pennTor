@@ -1,11 +1,11 @@
 ## Demo
-pennTor: https://penntor-mcit.herokuapp.com/
-Presentation: https://www.youtube.com/watch?v=ixgIjKfXGbk
+pennTor: https://penntor-mcit.herokuapp.com/ </br >
+Presentation: https://www.youtube.com/watch?v=ixgIjKfXGbk 
 
 ## Team Members:
-Joyce Wang
-Rita Sabri
-Jeng-Ru Wu
+Joyce Wang </br >
+Rita Sabri </br >
+Jeng-Ru Wu </br >
 Rachel Lim
 
 ## Project Name 
