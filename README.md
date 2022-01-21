@@ -1,3 +1,7 @@
+## Demo
+https://penntor-mcit.herokuapp.com/
+https://www.youtube.com/watch?v=ixgIjKfXGbk
+
 ## Team Members:
 * Joyce Wang
 * Rita Sabri
@@ -7,11 +11,18 @@
 ## Project Name 
 pennTor
 
-## Project Description
+## Description
 The process of pairing up the mentors and mentees was troublesome and required the use of google forms, emails, with a lot of human intervention. 
-We aim to create a web application that streamlines this process. MCIT students can sign up to be mentors or mentees on our web application and then answer a series of close-ended questions. Then, based on their responses, our app will run a matching algorithm (Gale–Shapley algorithm for stable marriage problem) that determines a mentor-mentee match based on users' responses. Then, our app will send emails through SendGrid API to connect the mentor and the mentee.  
+We aim to create a web application that streamlines this process. pennTor is a full-stack web application that allows MCIT students to sign up as mentors/mentees for the MCIT Mentorship Program. Students will fill out a short questionnaire providing information such as background, interests, preferred mentorship, etc.. Then, based on their responses, our app will run a matching algorithm (Gale–Shapley algorithm for stable marriage problem) that determines optimal mentor-mentee matches based on users' responses. Finally, an email notification will be automatically sent out to each mentor-mentee pair to connect them.  
 
-## Anticipated Tech Stack
-* Frontend: React, CSS
+## How we built it
+* Frontend: React, CSS, JavaScript
 * Backend: Node.js, Express, SendGrid API
 * Database: MySQL, AWS RDS
+* Deployment: Heroku
+
+## What's next for pennTor
+* Refine our criteria for optimal matching
+* Improve our matching algorithm to account for unequal numbers of mentors and mentees
+* Allow the users to update their information after signing up
+* Make the web page responsive/mobile friendly
