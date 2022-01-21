@@ -1,6 +1,6 @@
 ## Demo
-https://penntor-mcit.herokuapp.com/
-https://www.youtube.com/watch?v=ixgIjKfXGbk
+* pennTor: https://penntor-mcit.herokuapp.com/
+* Presentation: https://www.youtube.com/watch?v=ixgIjKfXGbk
 
 ## Team Members:
 * Joyce Wang
